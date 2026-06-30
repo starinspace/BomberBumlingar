@@ -40,6 +40,8 @@ Ladda ner EXE-versionen.
 
 Lägg sedan följande originalfiler i samma mapp som `BomberOchBumlingar.exe`:
 
+https://archive.org/details/BomberOchBumlingar
+
 ```text
 LVLS.LVL
 OBJECTS.PIC
