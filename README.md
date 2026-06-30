@@ -85,6 +85,11 @@ BomberOchBumlingar.exe --music MUSIC.OUT --music-mode soundblaster
 BomberOchBumlingar.exe -D
 ```
 
+<img width="962" height="704" alt="Skärmbild 2026-06-30 184116" src="https://github.com/user-attachments/assets/8ee4f55a-f7bf-4cd0-9430-6412b9120f08" />
+<img width="962" height="704" alt="Skärmbild 2026-06-30 184118" src="https://github.com/user-attachments/assets/0a4f6b65-f1c9-4039-a278-c7bb00d03267" />
+<img width="962" height="704" alt="Skärmbild 2026-06-30 183336" src="https://github.com/user-attachments/assets/7bf77392-f771-419d-9a6e-a58b54a5f5a4" />
+
+
 # Avancerat om man gillar det
 
 Flaggorna fungerar alltså både med EXE och med Python-versionen.
@@ -175,6 +180,10 @@ eller:
 ```bat
 python main.py --debug
 ```
+
+<img width="962" height="704" alt="Skärmbild 2026-06-30 183859" src="https://github.com/user-attachments/assets/91521a35-c317-4a19-8e02-6aa1f6bf6712" />
+<img width="962" height="704" alt="Skärmbild 2026-06-30 183921" src="https://github.com/user-attachments/assets/8a05fd43-c429-4cd6-a3e9-f8d8adb9c35f" />
+
 
 ## Kommandoradsflaggor
 
